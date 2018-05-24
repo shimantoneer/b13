@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.afsenyc.org/");
+header("Location: https://seekersnyc.org/");
 die();
 ?>
